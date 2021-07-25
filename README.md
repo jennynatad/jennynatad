@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jennilyn
 - 👀 I’m interested in Web development and Mobile development
-- 🌱 I’m currently learning Flutter, Python
+- 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on other content creators
 
 <!---
